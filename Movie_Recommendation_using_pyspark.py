@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# 基于spark中ALS的推荐系统，针对movielens中电影打分数据做推荐
+# Edit：寒小阳(hanxiaoyang.ml@gmail.com)
 
 import sys
 import itertools
